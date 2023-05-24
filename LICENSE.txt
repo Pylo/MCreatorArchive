@@ -1,4 +1,4 @@
-This license only applies to MCreator software versions before 2020.6 (before MCreator was open-sourced)
+This license only applies to MCreator software versions before 2020.5 (before MCreator was open-sourced)
 
 MCreator Software EULA (End User License Agreement)
 
