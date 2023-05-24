@@ -13,3 +13,5 @@ It is used worldwide by Minecraft players, aspiring mod developers, [for educati
 ## Download, community, and support
 
 Download old MCreator binary distributions on https://mcreator.net/download/all
+
+Old versions changelog: https://mcreator.net/wiki/changelog-older-versions
