@@ -1,0 +1,103 @@
+This license only applies to MCreator software versions before 2020.6 (before MCreator was open-sourced)
+
+MCreator Software EULA (End User License Agreement)
+
+MCreator Software EULA is an End User License Agreement between Pylo and the final user of MCreator software. This license applies to all users that downloaded and/or installed and/or used or use MCreator mod making software.
+
+    0. Definitions
+	
+- Pylo - the company developing MCreator software (can be reffered as "We" in this document too)
+- Software, MCreator, Mod Maker - all these terms refer to the MCreator mod maker software that you downloaded
+- MCreator's Website - official MCreator's website
+- Sofware user, User - a person that downloaded, installed or used/uses MCreator software
+- Mod, Modification - a modification (mod) file in the exported form (a form ready for the distribution with the end-users of the mod file) made using MCreator
+
+    1. Limitation of Liability
+
+To the maximum extent permitted by law, in no event shall company or our suppliers be liable to you or any third-party for any lost profits, lost data, costs of procurement of substitute products, or any indirect, consequential, exemplary, incidental, special or punitive damages arising from or relating to these terms or your use of, or incapability to use the software even if company has been advised of the possibility of such damages. Use of MCreator software is at your own discretion and risk, and you will be solely responsible for any damage to your device or computer system, or loss of data resulting therefrom.
+
+To the maximum extent permitted by law, notwithstanding anything to the contrary contained herein, our liability to you for any damages arising from or related to this agreement, will at all times be limited to a maximum of ten U.S. dollars (u.s. $10). The existence of more than one claim will not enlarge this limit. You agree that our suppliers will have no liability of any kind arising from or relating to this agreement.
+
+Some jurisdictions do not allow the limitation or exclusion of liability for incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+
+    2. Warranty
+
+ALL WORK PRODUCT BY DEVELOPER IS PROVIDED “AS IS”. OTHER THAN AS PROVIDED IN THIS AGREEMENT, DEVELOPER MAKES NO OTHER WARRANTIES, EXPRESS OR IMPLIED, AND HEREBY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING ANY WARRANTY OF MERCHANTABILITY AND WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE.
+
+    3. Certain Restrictions
+	
+The rights approved to you in these Terms are subject to the following restrictions: (a) you shall not sell, rent, lease, transfer, assign, distribute, host, or otherwise commercially exploit the Software; (b) you shall not change, make derivative works of, disassemble, reverse compile or reverse engineer any part of the Software; (c) you shall not access the Software in order to build a similar or competitive Software; and (d) except as expressly stated herein, no part of the Software may be copied, reproduced, distributed, republished, downloaded, displayed, posted or transmitted in any form or by any means unless otherwise indicated, any future release, update, or other addition to functionality of the Software shall be subject to these Terms.  All copyright and other proprietary notices on the Software must be retained on all copies thereof.
+
+Pylo reserves the right to change, suspend, or cease the Software with or without notice to you. You approved that Pylo will not be held liable to you or any third-party for any change, interruption, or termination of the Software or any part.
+
+Excluding any User Content that you may provide, you are aware that all the intellectual property rights, including copyrights, patents, trademarks, and trade secrets, in the Software and its content, are owned by Pylo or Pylo's suppliers. Note that these Terms and access to the Software do not give you any rights, title or interest in or to any intellectual property rights, except for the limited access rights listed later in the terms.
+
+You agree that Pylo will have no obligation to provide you with any support in connection with the Software, software or services, unless otherwise stated.
+
+    4. Support
+
+We are not bound to offer any support for MCreator software. We do have an official issue tracker and support ticket queue (https://mcreator.net/tracker), but it is not our obligation to answer tickets, and offer support to the users of MCreator.
+
+    5. Distributing MCreator
+
+You are not allowed to directly distribute MCreator's software. You can, however, share MCreator's download page by providing a link pointing to our website, but you have to state that MCreator is not you created and that it belongs to Pylo.
+
+You are not allowed to decompile or distribute MCreator's source code. MCreator is not open source! You can't use parts of MCreator's code, libraries or other intellectual properties of Pylo in any way other than intended use (by using MCreator). These rules do not apply to the mods made with MCreator. Distributing mods is described in the section "Mods made with MCreator".
+
+You are not allowed to host MCreator software files on your server and provide a public link to the download or in any other way make users able to download MCreator without visiting the official download page as this is against the rules above.
+
+    6. Source code
+
+MCreator's source code is our property. You are not allowed to decompile MCreator and use its code or parts of it for any purpose, even for private purposes. You are not allowed to use MCreator mod source templates for any purpose outside using them as a part of MCreator software. The only allowed way to use them is by using MCreator and therefore using them as a part of MCreator's internal code generator.
+
+    7. Minecraft resources
+
+Names of the game elements and all the visuals and screenshots of Minecraft game are the property of Mojang AB and are not in our possession. Our terms regarding distributing and other terms too don't apply to the files that are not directly our work and are the property of Mojang. Check their license for the license and other legal terms. We don't claim ownership of any resource that contains parts of the Minecraft resources or Textures.
+
+Under the term resource, we count textures and other image material with *.png or *.gif extension inside MCreator's installation folder or jar archives, but only resources described in the paragraph above fall under the terms of this section.
+
+    8. Mods made with MCreator
+
+The user is allowed to distribute their exported mod freely under the terms in this section; the user is NOT allowed to state that they made the mod without MCreator.
+
+The user is NOT allowed to monetize their mod in any way or earn money with their mod; the user is NOT allowed to commercially use their mod; the user is NOT allowed to put the mod download links behind link shortening services with ADs such as AdFly and other similar services.
+
+The user is not allowed to change the source code and/or configuration of the MCreator mod, rename the files, or do any other changes to the files in a way that would hide or cover that the mod was made with/using MCreator.
+
+Each distribution of the exported mod must contain the MCreator Mod Distribution License file "MCreator-README.txt" (generated by MCreator at the time of the export) in their archived distribution file. The MCreator-README.txt file must be kept unchanged.
+
+We have the right to use mods made with MCreator for advertising, educational or any other legitimate purposes. 
+
+We do not hold any liability as described in section "Limitation of Liability" for the mods made with MCreator. We do not provide any warranty for the exported mods (see section "Warranty").
+
+The user is required to abide any other laws, licenses and terms that apply to them as a Minecraft mod/add-on author (for example Minecraft EULA and Minecraft Forge license).
+
+    9. Usage statistics
+
+MCreator sends a very basic usage statistics to Google Analytics. When MCreator is launched, the OS type, screen size, and MCreator version are sent to the Google Analytics servers so we can get the estimate of the user base and improve the experience by targeting testing more into the specific OS or screen size. MCreator version number is sent so we can estimate the EOL for specific versions based on this data. For more information about analytics and data usage, check our privacy policy (https://www.pylo.co/privacy-policy).
+
+    10. Third-party libraries and resources
+
+Third-party libraries and resources are not covered by our terms of use and our license and are subject to their own legal documents. These are located in the license directory (./license folder) inside the installation folder of MCreator.
+
+Some MCreator distributions come bundled with OpenJDK 8 (Liberica JDK compiled by BellSoft). Licenses for these files can be found in the ./jdk directory. The bundled Java OpenJDK distribution is independent software and not a part of MCreator software.
+
+    11. Termination
+
+This EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon written notice to Pylo.
+
+It will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
+
+    12. Governing Law
+
+This EULA agreement, and any dispute arising out of or in connection with this EULA agreement shall be governed by and construed in accordance with the laws of Slovenia.
+
+If the court declares parts from this Agreement invalid, the other parts will remain fully in force.
+
+    13. Contact information
+
+You can contact Pylo for more information on the EULA or any other general information on support@pylo.co or https://www.pylo.co/contact
+
+    14. Notice
+	
+Minecraft is a registered trademark of Mojang AB. MCreator is not an official Minecraft product. It is not approved by or associated with Mojang AB.
